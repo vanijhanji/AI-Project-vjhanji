@@ -1,0 +1,1 @@
+This project implements a Snake game bot that uses different search algorithms such as Breadth-First Search (BFS), Depth-First Search (DFS), and A* (A-Star) to find the optimal path for the snake to reach the food.
